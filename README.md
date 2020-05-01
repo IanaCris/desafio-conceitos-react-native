@@ -52,7 +52,7 @@ Instala todas as dependências
 ### Resultados
 
 <h1 align="left">
-  <img alt="Results" title="Reactnative" src="desafio-conceitos-react-native.png" width="700px" style="border-radius:100px"/>
+  <img alt="Results" title="Reactnative" src=".github/desafio-conceitos-react-native.png" width="700px" style="border-radius:100px"/>
 </h1>
 
 ## :memo: Licença
